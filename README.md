@@ -1,4 +1,4 @@
-# Drum Kit Web Application 🥁
+# Drum Kit Web Application
 
 This is an interactive **Drum Kit** built with HTML, CSS, and JavaScript.
 Users can click on the drum images or press the corresponding keys on their keyboard to play different drum sounds. 
